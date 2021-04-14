@@ -8,7 +8,7 @@ nav_order: 3
 
 1. Once you have **created** clearDB for your database, we can now connect our app with the ClearDB database. Refer to the top of your Heroku application page, in the menu section, **click** _Settings_.
 
-!['menu'](./menu.png)
+!['menu'](../assets/images/menu.png)
 
 2. Arriving at the Settings page, **find** the Config Vars (configurations variables) section below the application information. Then **click** _Reveal Config Vars_ to show the details
 
