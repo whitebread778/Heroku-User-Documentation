@@ -22,7 +22,7 @@ nav_order: 3
 
 !['value](../assets/images/value.png)
 
-><span style="color:red">The value in red circle, represents user</spannnnn><br>
+><span style="color:red">The value in red circle, represents user</span><br>
 <span style="color:blue">The value in blue circle, represents password</span><br>
 <span style="color:green">The value in green circle, represents host</span><br>
 <span style="color:yellow">The value in black circle, represents database</span>
