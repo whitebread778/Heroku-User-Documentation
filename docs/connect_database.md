@@ -22,10 +22,10 @@ nav_order: 3
 
 !['value](../assets/images/value.png)
 
-><span style="color:red">The value in red circle, represents user</spannnnn>\
-<span style="color:blue">The value in blue circle, represents password</span>\
-<span style="color:green">The value in green circle, represents host</span>\
-<span style="color:yellow">The value in black circle, represents database</span>
+><span style="color:red">The value in red circle, represents user</spannnnn>
+><span style="color:blue">The value in blue circle, represents password</span>
+><span style="color:green">The value in green circle, represents host</span>
+><span style="color:yellow">The value in black circle, represents database</span>
 
 5. Using those values, you can set up your connection to the ClearDB database in your web application. Here is an example in Javascript, each above value will be set as a string to its corresponding key.
 
