@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Structure
+title: Connect your app with the ClearDB database
 nav_order: 3
 ---
 
