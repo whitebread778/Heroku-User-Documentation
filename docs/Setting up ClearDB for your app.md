@@ -41,5 +41,4 @@ Go to [this link](https://heroku.com/verify) and fill out the information form
 
 ## 5.Enter Payment Information
 <br>
-<br>
 !['paymentInfo'](../assets/images/setting up ClearDB/05_paymentInfo.png)
