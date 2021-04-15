@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Connect your app with the ClearDB database
-nav_order: 3
+title: Glossary
+nav_order: 4
 ---
 
 # Glossary #
