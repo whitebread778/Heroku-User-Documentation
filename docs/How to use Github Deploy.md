@@ -35,7 +35,7 @@ For those of you who don't know what Github is, It is a code hosting platform fo
 ![deployment methods](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/04_New%20button.png) 
 *** 
 8. Enter the name of your github repository  
-![repository methods](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/05_repository%20methods.png| )  
+![repository methods](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/05_repository%20methods.png)  
 ***
 9. After you find the repository, click **connect**. Once you have done that, we are done!
 
