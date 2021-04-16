@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setting up ClearDB for your app
-nav_order: 2
+nav_order: 4
 ---
 
 # Setting up ClearDB for your app
