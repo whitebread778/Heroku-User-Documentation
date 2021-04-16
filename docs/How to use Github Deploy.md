@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating an app using github deploy
-nav_order: 2
+nav_order: 3
 ---
 
 ### Creating an app using github deploy
