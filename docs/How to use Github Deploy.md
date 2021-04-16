@@ -9,7 +9,7 @@ nav_order: 3
 For those of you who don't know what Github is, It is a code hosting platform for version control and collaboration. In this document, we will be walking you through how to host your code on Heroku, by pushing it to Github
 
 **1.** Create a new repository in [github](https://github.com)  
-![Create a new repository](..assets/images/github-deploy/01_github.png)
+![Create a new repository](../assets/images/github-deploy/01_github.png)
 
 ***
 
