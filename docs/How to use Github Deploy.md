@@ -1,3 +1,9 @@
+---
+layout: default
+title: Creating an app using github deploy
+nav_order: 1
+---
+
 ### Creating an app using github deploy
 
 For those of you who don't know what Github is, It is a code hosting platform for version control and collaboration. In this document, we will be walking you through how to host your code on Heroku, by pushing it to Github
