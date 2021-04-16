@@ -17,17 +17,3 @@ We chose to use [Just the Docs](https://github.com/pmarsceill/just-the-docs) as 
 ### Markdown
 We learned how to use Markdown from our Business Communication class. After learning how to style and formate our text with Markdown, we found this is a good way for us to write this documentation.
 
-
-## Things We have learned #
-
-### Jason ###
-- markdown syntax
-- documentation structure and organization
-- working with markdown on github
-### Adam ###
-- How to collaborate using Markdown
-- Benefits of using/writing user documentation
-- How to communicate with teammates in a stressful environment
-
-
-
