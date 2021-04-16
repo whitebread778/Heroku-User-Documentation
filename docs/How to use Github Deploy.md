@@ -9,7 +9,7 @@ nav_order: 3
 For those of you who don't know what Github is, It is a code hosting platform for version control and collaboration. In this document, we will be walking you through how to host your code on Heroku, by pushing it to Github
 
 **1.** Create a new repository in [github](https://github.com)  
-![Create a new repository](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/01_github.png)
+![Create a new repository](..assets/images/github-deploy/01_github.png)
 
 ***
 
@@ -26,11 +26,11 @@ For those of you who don't know what Github is, It is a code hosting platform fo
 ***
 **Make sure you have already created an app on Heroku! Please access our [Creating a new app](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/docs/Creating-a-new-app.md) documentation if you are having trouble**
 **3.** Scroll down to where it says **Deployment Methods.** We will be using this to connect to Github option  
-![deployment methods](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/04_New%20button.png) 
+![deployment methods](../assets/images/github-deploy/04_New button.png) 
 *** 
 
 **4.** Enter the name of your github repository  
-![repository methods](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/05_repository%20methods.png)  
+![repository methods](../assets/images/github-deploy/05_repository methods.png)  
 ***
 **5.** After you find the repository, click **connect**. Once you have done that, we are done!
 
