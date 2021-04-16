@@ -13,7 +13,7 @@ Go to Heroku website and sign in your account.
 ## 2. Click New button
 After signing your Heroku account you should see this page. Click the **New** button on the top right.
 <br>
-![New button](../assets/images/02_Create%20new%20app.png)  
+![New button](../assets/images/02_clickNew.png)  
 <br>
 
 ## 3. Create new app
