@@ -11,7 +11,7 @@ After you have created a new app, you can add some add-on. You can choose ClearD
 
 ******
 
-## 1.Go to Resources
+## 1. Go to Resources
 
 On the top of your page, click on Resources tab.
 <br>
@@ -19,7 +19,7 @@ On the top of your page, click on Resources tab.
 !['Resources page'](../assets/images/setting up ClearDB/01_resources.png)
 <br>
 
-## 2.Choose ClearDB MySQL
+## 2. Choose ClearDB MySQL
 
 Look for **ClearDB MySQL** in the Add-Ons section
 <br>
@@ -35,7 +35,7 @@ Select the plan name then click **Submit Order Form**
 !['plan'](../assets/images/setting up ClearDB/03_plan.png)
 <br>
 
-## 4.Associate a credit card
+## 4. Associate a credit card
 
 You will receive this popup if you have not associated a credit card to your account
 <br>
@@ -45,6 +45,9 @@ You will receive this popup if you have not associated a credit card to your acc
 Go to [this link](https://heroku.com/verify) and fill out the information form
 <br>
 
-## 5.Enter Payment Information
+## 5. Enter Payment Information
 <br>
 !['paymentInfo'](../assets/images/setting up ClearDB/05_paymentInfo.png)
+<br>
+## Conclusion
+This guide has shown you how to add ClearDB as the database of your application. You can simply follow the guide and have a database to storage data from the users.
