@@ -14,12 +14,12 @@ For those of you who don't know what Github is, It is a code hosting platform fo
 ***
 
 **2.** Commit and push your code to Github  
-    a.  git init  
-    b. git add <_files that you will use_>  
-    c.  git commit -m "first commit"  
-    d. git Branch -M main  
-    e.  git remote add origin < <https://github.com/YOURACCOUNT/PROJECTNAME.git>>  
-    f.  git push -u origin main 
+    a. ```git init```  
+    b. ```git add <_files that you will use_>```
+    c. ```git commit -m "first commit"```  
+    d. ```git Branch -M main```  
+    e. ```git remote add origin <<https://github.com/YOURACCOUNT/PROJECTNAME.git>>```
+    f. ```git push -u origin main```
 
 **If you are struggling to push your code, follow [this link](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line) for further instructions.**
 #### Now your project is on Github!
