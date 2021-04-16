@@ -13,4 +13,4 @@ In this document, we are going to be learning how to create an app on Heroku **p
 **4.** Enter the name of your app, then **Create the app**  
 ***
 
-If we have followed these steps corretly, we should have a new page that displays our app names, and various options below it. Good job! We now have an app.
+If we have followed these steps correctly, we should have a new page that displays our app names, and various options below it. Good job! We now have an app.
