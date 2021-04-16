@@ -1,3 +1,9 @@
+---
+layout: default
+title: Create new app
+nav_order: 7
+---
+
 # Troubleshooting
 This section will state some common problems when new web development learner will encounter. 
 We listed out five different common problems in this section
