@@ -7,6 +7,16 @@ These are the steps of this document
 3. Setting up clearDB for your app
 4. Connect your app with the ClearDB database
 
+## How we created this guide
+We created this guide from the knowledge we learned from web database course. There are several steps from having web code locally to have a real URL which allows other people to access to the website. We organized the steps so that our users can have clear instructions
+<br>
+## Methods
+### Just the Docs
+We chose to use [Just the Docs](https://github.com/pmarsceill/just-the-docs) as our site generator. Because the goal for this documentation is to make the steps clear and simple for the users, we choose this scheme to make our documentation neat.
+<br>
+### Markdown
+We learned how to use Markdown from our Business Communication class. After learning how to style and formate our text with Markdown, we found this is a good way for us to write this documentation.
+
 
 ## Things We have learned #
 
