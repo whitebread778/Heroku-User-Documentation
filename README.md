@@ -1,5 +1,4 @@
 # Overview of Heroku User Documentation
-*******
 This document will guide you through how to use [Heroku](https://www.heroku.com/) to build an app running on Heroku
 The goal of this documentation is to provide new web development learner steps about how to deploy your code to Heroku.
 These are the steps of this document
