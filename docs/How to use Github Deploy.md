@@ -25,21 +25,7 @@ For those of you who don't know what Github is, It is a code hosting platform fo
 #### Now your project is on Github!
 ***
 
-**3.** Open Heroku
 
-***
-**4.** Click **New**
-
-![New button](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/02_Create%20new%20app.png)  
-*** 
-**5.** Click **Create new app**  
-![Create new app](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/03_deployment%20methods.png)
-***
-**6.** Enter the name of your app, then **Create the app**  
-***
-**7.** Scroll down to where it says **Deployment Methods.** We will be using the connect to Github option  
-![deployment methods](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/04_New%20button.png) 
-*** 
 **8.** Enter the name of your github repository  
 ![repository methods](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/05_repository%20methods.png)  
 ***
