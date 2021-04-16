@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Connect your app with the ClearDB database
-nav_order: 3
+nav_order: 5
 ---
 
 # Connect your app with the ClearDB database #
