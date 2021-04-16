@@ -24,7 +24,7 @@ For those of you who don't know what Github is, It is a code hosting platform fo
 **If you are struggling to push your code, follow [this link](https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line) for further instructions.**
 #### Now your project is on Github!
 ***
-**Make sure you have already created an app on Heroku! Please access our ![Creating a new app](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/docs/Creating-a-new-app.md)_ documentation if you are having trouble**
+**Make sure you have already created an app on Heroku! Please access our [Creating a new app](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/docs/Creating-a-new-app.md) documentation if you are having trouble**
 **3.** Scroll down to where it says **Deployment Methods.** We will be using this to connect to Github option  
 ![deployment methods](https://github.com/whitebread778/Heroku-user-documentation/blob/gh-pages/assets/images/github-deploy/04_New%20button.png) 
 *** 
