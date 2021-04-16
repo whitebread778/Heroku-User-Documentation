@@ -44,4 +44,4 @@ const dbConfigHeroku = {
 };
 ```
 
-Using this configuration, now your web application will be able to connect to the ClearDB database.
+**Conclusion:** Following the steps of this configuration tutorial, now your web application will be able to connect to the ClearDB database.
