@@ -22,7 +22,7 @@ Click on **Create new app** from the list.
 After fill up the app name click **Create app**
 <br>
 ![Create new app](../assets/images/createApp.png)
-***
+***********
 
 ## Conclusion
 If we have followed these steps correctly, we should have a new page that displays our app names, and various options below it. Good job! We now have an app.
