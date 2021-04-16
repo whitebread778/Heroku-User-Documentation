@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create new app
+title: Troubleshooting
 nav_order: 7
 ---
 
